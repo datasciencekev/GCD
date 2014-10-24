@@ -1,0 +1,8 @@
+CODEBOOK.txt
+
+This file describes the columns in output.txt.  
+
+The first two columns are the Activity and Subject respectively.  Activity has a descriptive name, subject uses the correct identifier.
+
+Each remaining column represents the mean of one of the original columns in the SAMSUNG data.  The same name is used.  The mean is calculated by Activity and Subject, giving a total of 180 rows of information.  There are a total of 79 mean columns, 1 Activity column (Label) and one Subject Column.
+
